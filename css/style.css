@@ -39,6 +39,7 @@
     font-size:20px;
     letter-spacing:0.02em;
     line-height: 1.2;
+    color:#2e2f42
 }
 
 .up{
@@ -131,7 +132,7 @@ color:#404bbf;
     color:#2e2f42;
 
 }
-.ad{
+.adu{
     font-style: normal;
 }
 .akapit{
@@ -218,4 +219,11 @@ color:#404bbf;
     letter-spacing: 0.02em;
     color:#2e2f42;
 
+}
+.naglowek{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42
 }
