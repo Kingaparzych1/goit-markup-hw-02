@@ -64,11 +64,11 @@
 .btn{
     font-family:"Roboto",sans-serif;
     font-weight:500;
-    font-size: 16px,
+    font-size: 16px;
     color:#ffffff;
     font-style:normal;
     line-height:1.5;
-    letter-spacing:0.04em;
+    letter-spacing: 0.04em;
     text-transform: capitalize;
     background-color:#4D5AE5;
     cursor: pointer;
@@ -84,6 +84,9 @@
 
 }
 .sss:hover{
+    color:#404bbf
+}
+.sss:focus{
     color:#404bbf
 }
 .sss:active{
@@ -148,6 +151,7 @@ color:#404bbf;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color:#2e2f42;
 
 }
 .pierwszy{
@@ -174,15 +178,19 @@ color:#404bbf;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color:#2e2f42;
 }
 .ooo{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color:#2e2f42;
 }
 .www{
     line-height: 1.5;
+    font-size: 16px;
+    color: #434455;
     letter-spacing: 0.02em;
     color: #434455;
 }
@@ -197,5 +205,17 @@ color:#404bbf;
 }
 .secondsite{
     color:#f4f4fd;
+
+}
+.bankapp{
+    styl background-color: #FFFFFF;
+
+}
+.pop{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
 
 }
