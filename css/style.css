@@ -22,37 +22,32 @@
   font-weight: 700;
   font-style: normal;
 }
-.title1{
+.title{
     font-family: "Roboto",sans-serif;
     font-weight:700;
     font-style:bold;
     font-size:56px;
-    letter-spacing:2%;
-    line-height:60px;
+    letter-spacing:0.02em;
+    line-height:1.07;
     color:#ffffff;
+    text-align: center;
 }
 .mikro{
     font-family:"Roboto",sans-serif;
     font-weight:500;
     font-style:normal;
     font-size:20px;
-    letter-spacing:2%;
+    letter-spacing:0.02em;
+    line-height: 1.2;
 }
-.text3{
-    font-family:"Roboto",sans-serif;
-    font-weight:400;
-    font-style:normal;
-    font-size:16px;
-    letter-spacing:2%;
-    line-height:24px;
-}
+
 .up{
     font-family:"Roboto",sans-serif;
     font-weight:500;
     font-style:bold;
     font-size: 16px;
     line-height:24px;
-    letter-spacing:2%;
+    letter-spacing:0.02em;
     background-color:#E7E9FC;
 }
 .ad{
@@ -61,63 +56,51 @@
     font-style:normal;
     font-size:16px;
     line-height:24px;
-    letter-spacing:2%;
+    letter-spacing:0,02em;
 }
 .first{
     background-color:#2E2F42;
 }
 .btn{
     font-family:"Roboto",sans-serif;
-    font-weight:400;
+    font-weight:500;
+    font-size: 16px,
     color:#ffffff;
     font-style:normal;
-    line-height:24px;
-    letter-spacing:4%;
-    padding:1rem,2rem;
-    border-radius:8px;
+    line-height:1.5;
+    letter-spacing:0.04em;
     text-transform: capitalize;
     background-color:#4D5AE5;
     cursor: pointer;
 }
 .btn:hover{
-    background-color: #4D5AE5;
+    background-color: #404BBF;
 }
-.s1{
+.btn:focus{
+    background-color: #404BBF;
+}
+.sss{
     color:#2E2F42;
+
 }
-.s1:hover{
-    color:#4D5AE5
+.sss:hover{
+    color:#404bbf
 }
-.s1:active{
-    color:#404BBF;
+.sss:active{
+    color:#404bbf;
     text-decoration: underline;
 }
-.p2{
-    color:#2E2F42;
-}
-.p2:hover{
-    color:#4D5AE5;
-}
-.c3{
-    color:#2E2F42;
-}
-.c3:hover{
-    color:#4D5AE5;
-}
-.ad{
+.add{
     color:#434455;
     text-decoration: underline;
 }
-.ad:hover{
-    color:#4D5AE5
+.add:hover{
+    color: #404bbf;
+font-style:normal;
+text-decoration: underline;
 }
-.ad2{
-    color:#434455;
-    text-decoration: underline;
-    font-style:normal;
-}
-.ad2:hover{
-    color:#4D5AE5;
+.add:focus{
+color:#404bbf;
 }
 .third{
     background-color:#F4F4FD;
@@ -126,6 +109,93 @@
     background-color:#2E2F42 ;
    
 }
-.last2{
+.lastt{
     color:#F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:#4d5ae5;
+
+}
+.logoo{
+    color:#2e2f42;
+
+}
+.ad{
+    font-style: normal;
+}
+.akapit{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+
+
+}
+.team{
+    background-color: #F4F4FD;
+}
+.titlee{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+
+}
+.pierwszy{
+    styl background-color: #FFFFFF;
+
+}
+.ddd{
+    font-weight: 500;
+
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+
+}
+.kkk{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+.lll{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+.ooo{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.www{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.logof{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:#4d5ae5;
+}
+.secondsite{
+    color:#f4f4fd;
+
 }
