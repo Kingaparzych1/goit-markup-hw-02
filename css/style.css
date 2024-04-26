@@ -1,0 +1,131 @@
+.roboto-r {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-m {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-b {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+ 
+.raleway {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.title1{
+    font-family: "Roboto",sans-serif;
+    font-weight:700;
+    font-style:bold;
+    font-size:56px;
+    letter-spacing:2%;
+    line-height:60px;
+    color:#ffffff;
+}
+.mikro{
+    font-family:"Roboto",sans-serif;
+    font-weight:500;
+    font-style:normal;
+    font-size:20px;
+    letter-spacing:2%;
+}
+.text3{
+    font-family:"Roboto",sans-serif;
+    font-weight:400;
+    font-style:normal;
+    font-size:16px;
+    letter-spacing:2%;
+    line-height:24px;
+}
+.up{
+    font-family:"Roboto",sans-serif;
+    font-weight:500;
+    font-style:bold;
+    font-size: 16px;
+    line-height:24px;
+    letter-spacing:2%;
+    background-color:#E7E9FC;
+}
+.ad{
+    font-family:"Roboto",sans-serif;
+    font-weight:400;
+    font-style:normal;
+    font-size:16px;
+    line-height:24px;
+    letter-spacing:2%;
+}
+.first{
+    background-color:#2E2F42;
+}
+.btn{
+    font-family:"Roboto",sans-serif;
+    font-weight:400;
+    color:#ffffff;
+    font-style:normal;
+    line-height:24px;
+    letter-spacing:4%;
+    padding:1rem,2rem;
+    border-radius:8px;
+    text-transform: capitalize;
+    background-color:#4D5AE5;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #4D5AE5;
+}
+.s1{
+    color:#2E2F42;
+}
+.s1:hover{
+    color:#4D5AE5
+}
+.s1:active{
+    color:#404BBF;
+    text-decoration: underline;
+}
+.p2{
+    color:#2E2F42;
+}
+.p2:hover{
+    color:#4D5AE5;
+}
+.c3{
+    color:#2E2F42;
+}
+.c3:hover{
+    color:#4D5AE5;
+}
+.ad{
+    color:#434455;
+    text-decoration: underline;
+}
+.ad:hover{
+    color:#4D5AE5
+}
+.ad2{
+    color:#434455;
+    text-decoration: underline;
+    font-style:normal;
+}
+.ad2:hover{
+    color:#4D5AE5;
+}
+.third{
+    background-color:#F4F4FD;
+}
+.last{
+    background-color:#2E2F42 ;
+   
+}
+.last2{
+    color:#F4F4FD;
+}
